@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "FrostKhanSMP.aternos.me",
+    "port":55294,
     "version": "1.21.11",
     "try-creative": false
   },
