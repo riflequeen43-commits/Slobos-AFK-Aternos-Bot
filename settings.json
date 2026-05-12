@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FrostKhanSMP.aternos.me",
+    "ip": "sablefish.aternos.host",
     "port":55294,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 300,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
