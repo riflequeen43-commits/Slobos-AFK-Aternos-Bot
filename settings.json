@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FrostKhanSMP.aternos.me:55294",
+    "ip": "FrostKhanSMP.aternos.me",
     "port":55294,
     "version": "1.21.11",
     "try-creative": false
